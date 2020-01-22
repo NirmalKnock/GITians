@@ -35,3 +35,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<!doctype html>
+<head>
+  <title></title></head>
+ <body>
+<h1> this the new web page created by the nirmal kumar and it is very important news to update all of of the news to all branches of the deptpartment in our college and its time to make a new book</body>
+</html>
